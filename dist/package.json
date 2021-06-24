@@ -1,5 +1,5 @@
 {
-  "name": "ng-rutter",
+  "name": "cw-airtable",
   "description": "Angular Rutter API port",
   "author": "steven4294",
   "version": "1.0.10",
@@ -50,14 +50,14 @@
     "typescript": "2.8.4",
     "zone.js": "~0.8.26"
   },
-  "main": "bundles/ng-rutter.umd.js",
-  "module": "fesm5/ng-rutter.js",
-  "es2015": "fesm2015/ng-rutter.js",
-  "esm5": "esm5/ng-rutter.js",
-  "esm2015": "esm2015/ng-rutter.js",
-  "fesm5": "fesm5/ng-rutter.js",
-  "fesm2015": "fesm2015/ng-rutter.js",
-  "typings": "ng-rutter.d.ts",
-  "metadata": "ng-rutter.metadata.json",
+  "main": "bundles/cw-airtable.umd.js",
+  "module": "fesm5/cw-airtable.js",
+  "es2015": "fesm2015/cw-airtable.js",
+  "esm5": "esm5/cw-airtable.js",
+  "esm2015": "esm2015/cw-airtable.js",
+  "fesm5": "fesm5/cw-airtable.js",
+  "fesm2015": "fesm2015/cw-airtable.js",
+  "typings": "cw-airtable.d.ts",
+  "metadata": "cw-airtable.metadata.json",
   "sideEffects": false
 }

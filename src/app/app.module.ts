@@ -3,10 +3,12 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { NgRutterModule } from './modules/ng-rutter/ng-rutter.module';
+import { CwAirtableComponent } from './cw-airtable.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    CwAirtableComponent,
   ],
   imports: [
     BrowserModule,
